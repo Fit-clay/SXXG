@@ -1,0 +1,98 @@
+<resources>
+    <color name="main_color">#FC5012</color>
+    <color name="main_light_color">#FC5012</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_thirty">#B2FFFFFF</color>
+    <color name="white_seventy">#4CFFFFFF</color>
+    <color name="black">#646464</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <color name="Grey">#f2f2f2</color>
+    <color name="bt_bg_orange">#FE7634</color>
+    <color name="gray">#ffcccccc</color>
+    <color name="sdk_color_pwd_line">#60000000</color>
+    <color name="discover_menu_black">#4a4a4a</color>
+
+    <!-- 注册登录页面-->
+    <color name="login_text">#3D4550</color>
+    <color name="login_light_text">#BEC3CC</color>
+    <color name="login_text_color">#BEC3CC</color>
+
+    <color name="text_color">#3D4550</color>
+    <color name="hint_text_color">#BEC3CC</color>
+
+    <color name="line_color">#CCCCCC</color>
+
+    <color name="line_color2">#E5E5E5</color>
+
+    <color name="text_orange">#FF7C55</color>
+
+
+    <color name="divid_line">#E5E5E5</color>
+    <color name="big_bg">#f6f6f6</color>
+
+    <color name="yellow_light">#FFECC7</color>
+    <color name="yellow">#FDB322</color>
+    <color name="orange">#FC5012</color>
+    <color name="text_color_translucent">#FFBEC3CC</color>
+    <color name="forgot_pw">#ffbf41</color>
+
+    <color name="tab_text_press">#7097FB</color>
+    <color name="tab_text">#BEC3CC</color>
+    <color name="manage_money_deadline_number">#0d273b</color>
+
+    <color name="mian_activity_tips_text">#feb830</color>
+    <color name="main_list_title_text">#777C84</color>
+    <color name="manage_money_list_stroke">#eae9e9</color>
+    <color name="manage_money_list_progress">#96b4ff</color>
+    <color name="manage_money_list_progress_bg">#f3f3f3</color>
+    <color name="manage_money_imaginary_line">#ededed</color>
+
+    <color name="person_bg">#7097FB</color>
+    <color name="person_text_bg">#FFFC5012</color>
+    <color name="text_person">#767A80</color>
+
+    <color name="manage_money_list_bg">#f2f2f2</color>
+    <color name="manage_money_tab_chcked">#7097FB</color>
+    <color name="manage_money_tab_unchcked">#767A80</color>
+    <color name="title_line">#f7f7f7</color>
+    <color name="refresh_bg">#f2f2f2</color>
+    <color name="refresh_text">#737373</color>
+    <color name="manage_money_list_invalid_text">#BEC3CC</color>
+
+    <color name="text_invest_detail">#737373</color>
+    <color name="text_invest_detail_tip">#A1A4A8</color>
+    <color name="manage_money_list_valid_text">#FF767A80</color>
+    <color name="edit_border_gray">#CCD0D7</color>
+    <color name="btn_gradient_tangerine_start">#f79345</color>
+    <color name="btn_gradient_tangerine_end">#f55816</color>
+    <color name="btn_circle_gray">#e9eaeb</color>
+    <color name="base_blue">#7097FB</color>
+    <color name="btn_yellow">#f9c93d</color>
+    <color name="text_gray">#a4a4a4</color>
+    <color name="text_yelow">#FFB703</color>
+    <color name="seven_color_grid_register_agreenment_bg">#7097fb</color>
+    <color name="yuan_text">#414853</color>
+    <color name="point_gray_bg">#bec3cc</color>
+    <color name="manage_money_line_rate_text">#FF7C55</color>
+    <color name="base_gray">#d1d5db</color>
+    <color name="yellow_wish">#FFF5DC</color>
+    <color name="yellow_line">#FC9B00</color>
+    <color name="tv_verify_in">#9c9c9c</color>
+    <color name="tv_verify_end">#fac56d</color>
+    <color name="base_gray_bg">#eaeaea</color>
+    <color name="customer_text">#767A80</color>
+    <color name="workday_text">#BEC3CC</color>
+    <color name="base_yellow">#f9be42</color>
+    <color name="home_default_status">#adb1b4</color>
+
+    <color name="dialog_notice_content_bg">#f6f6f6</color>
+
+    <color name="dialog_bg">#f3f3f3</color>
+    <color name="dialog_btn_red_bg">#fc5011</color>
+    <color name="dialog_btn_gray_tv">#a0a0a0</color>
+    <color name="dialog_content_tv">#7d8288</color>
+    <color name="tv_phone">#f9bf43</color>
+
+
+</resources>

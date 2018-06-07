@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorPrimary"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/tab_text"
     >
 
-</android.support.constraint.ConstraintLayout>
+    <com.flyco.tablayout.SlidingTabLayout
+        android:id="@+id/tl_community"
+        android:layout_centerInParent="true"
+        android:layout_below="@+id/rl_title"
+        android:layout_width="wrap_content"
+        android:layout_height="46dp"
+        android:background="@color/white"
+        app:tl_textSelectColor="@color/manage_money_tab_chcked"
+        app:tl_textUnselectColor="@color/manage_money_tab_unchcked"
+        app:tl_textsize="14sp"
+        app:tl_indicator_color="@color/manage_money_tab_chcked"
+        app:tl_indicator_height="2dp"
+        app:tl_textAllCaps="true"
+        app:tl_indicator_width_equal_title="true"
+        app:tl_tab_width="70dp"
+        />
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_community"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        >
+    </android.support.v4.view.ViewPager>
+
+</LinearLayout>
